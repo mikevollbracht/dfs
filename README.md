@@ -1,2 +1,2 @@
 # dfs
-Jupyter notebooks to support fantasy football
+Jupyter notebooks to support building draft kings line ups
