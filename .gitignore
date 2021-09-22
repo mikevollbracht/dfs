@@ -1,7 +1,6 @@
-# Excel data 
+
+# Hide Archive Files 
 archive/
-*.xlsx
-*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
